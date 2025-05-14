@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEB837A-1A43-4558-A7B7-D110129D9DD4}|WindowsFormsAppAutoPartsStore.csproj|c:\\users\\\u0434\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\windowsformsappautopartsstore\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEB837A-1A43-4558-A7B7-D110129D9DD4}|WindowsFormsAppAutoPartsStore.csproj|solutionrelative:formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEB837A-1A43-4558-A7B7-D110129D9DD4}|WindowsFormsAppAutoPartsStore.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FEB837A-1A43-4558-A7B7-D110129D9DD4}|WindowsFormsAppAutoPartsStore.csproj|solutionrelative:formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEB837A-1A43-4558-A7B7-D110129D9DD4}|WindowsFormsAppAutoPartsStore.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\formmanagerchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEB837A-1A43-4558-A7B7-D110129D9DD4}|WindowsFormsAppAutoPartsStore.csproj|solutionrelative:formmanagerchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEB837A-1A43-4558-A7B7-D110129D9DD4}|WindowsFormsAppAutoPartsStore.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\formmanagerchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FEB837A-1A43-4558-A7B7-D110129D9DD4}|WindowsFormsAppAutoPartsStore.csproj|solutionrelative:formmanagerchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEB837A-1A43-4558-A7B7-D110129D9DD4}|WindowsFormsAppAutoPartsStore.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\formreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FEB837A-1A43-4558-A7B7-D110129D9DD4}|WindowsFormsAppAutoPartsStore.csproj|solutionrelative:formreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEB837A-1A43-4558-A7B7-D110129D9DD4}|WindowsFormsAppAutoPartsStore.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\formreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEB837A-1A43-4558-A7B7-D110129D9DD4}|WindowsFormsAppAutoPartsStore.csproj|solutionrelative:formreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEB837A-1A43-4558-A7B7-D110129D9DD4}|WindowsFormsAppAutoPartsStore.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\formwarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FEB837A-1A43-4558-A7B7-D110129D9DD4}|WindowsFormsAppAutoPartsStore.csproj|solutionrelative:formwarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEB837A-1A43-4558-A7B7-D110129D9DD4}|WindowsFormsAppAutoPartsStore.csproj|C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\formwarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEB837A-1A43-4558-A7B7-D110129D9DD4}|WindowsFormsAppAutoPartsStore.csproj|solutionrelative:formwarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormReport.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\FormReport.cs",
+              "RelativeDocumentMoniker": "FormReport.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\FormReport.cs",
+              "RelativeToolTip": "FormReport.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAiwLAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:47:03.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormReport.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\FormReport.cs",
+              "RelativeDocumentMoniker": "FormReport.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\FormReport.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormReport.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:47:00.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormManagerChange.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\FormManagerChange.cs",
+              "RelativeDocumentMoniker": "FormManagerChange.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\FormManagerChange.cs",
+              "RelativeToolTip": "FormManagerChange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:31:45.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormManagerChange.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\FormManagerChange.cs",
+              "RelativeDocumentMoniker": "FormManagerChange.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\FormManagerChange.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormManagerChange.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:31:43.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\FormManager.cs",
+              "RelativeDocumentMoniker": "FormManager.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\FormManager.cs",
+              "RelativeToolTip": "FormManager.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwK4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:13:58.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormManager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\FormManager.cs",
+              "RelativeDocumentMoniker": "FormManager.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\FormManager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormManager.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:13:56.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormWarehouse.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\FormWarehouse.cs",
+              "RelativeDocumentMoniker": "FormWarehouse.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\FormWarehouse.cs",
+              "RelativeToolTip": "FormWarehouse.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAArwI0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:36:16.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormWarehouse.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\FormWarehouse.cs",
+              "RelativeDocumentMoniker": "FormWarehouse.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043C\u0438\u0442\u0440\u0438\u0439\\source\\repos\\WindowsFormsAppAutoPartsStore\\FormWarehouse.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormWarehouse.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T15:39:55.366Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
